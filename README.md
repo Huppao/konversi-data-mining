@@ -147,7 +147,7 @@ Library utama yang digunakan:
 ### 3️⃣ Jalankan Notebook
 
 * Jalankan `scrapping_playstore.ipynb` untuk mengambil data ulasan terbaru
-* Jalankan `modeling.ipynb` untuk melihat proses preprocessing, analisis, dan pemodelan
+* Jalankan `modeling.ipynb` untuk melihat proses preprocessing, dan pemodelan
 
 ---
 
