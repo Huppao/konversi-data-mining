@@ -122,8 +122,8 @@ Ikuti langkah berikut untuk menjalankan proyek ini di komputer lokal:
 ### 1️⃣ Clone Repositori
 
 ```bash
-git clone https://github.com/USERNAME_GITHUB_ANDA/NAMA_REPO_ANDA.git
-cd NAMA_REPO_ANDA
+git clone 
+cd konversi-data-mining
 ```
 
 ### 2️⃣ Install Dependencies
