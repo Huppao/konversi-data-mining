@@ -46,8 +46,8 @@ Berikut adalah struktur file dalam repositori ini:
 
 ```bash
 ├── dataset_stella_sora_original.csv  # Dataset mentah hasil scraping (±15.000 data)
-├── scrapping_playstore.ipynb         # Notebook: Proses crawling data dari Google Play Store
-├── modeling.ipynb                    # Notebook: Preprocessing, EDA, dan Modeling (Random Forest)
+├── scrapping_playstore.ipynb         # Notebook: Proses crawling data dari Google Play Store dan EDA
+├── modeling.ipynb                    # Notebook: Preprocessing, dan Modeling 
 ├── requirements.txt                  # Daftar library Python yang dibutuhkan
 └── README.md                         # Dokumentasi proyek
 ```
