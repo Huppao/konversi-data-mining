@@ -70,7 +70,7 @@ Berikut adalah struktur file dalam repositori ini:
 
 Tahapan preprocessing yang dilakukan meliputi:
 
-* **Text Cleaning**  : Menghapus emoji, tanda baca, URL, dan angka menggunakan *Regex*
+* **Text Cleaning**  : Menghapus tanda baca, URL, dan angka menggunakan *Regex*
 * **Case Folding**  : Mengubah seluruh teks menjadi huruf kecil
 * **Stopword Removal** : Menghapus kata umum yang tidak memiliki makna sentimen (library **Sastrawi**)
 * **Stemming**      : Mengubah kata berimbuhan menjadi kata dasar (library **Sastrawi**)
