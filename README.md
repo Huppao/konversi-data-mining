@@ -62,7 +62,7 @@ Berikut adalah struktur file dalam repositori ini:
 
 * Data diperoleh melalui teknik **web scraping** menggunakan library `google-play-scraper`
 * **Target aplikasi** : Stella Sora (`com.YoStarEN.StellaSora`)
-* **Jumlah data**     : ±15.000 ulasan
+* **Jumlah data**     : 15.000 ulasan
 * **Cakupan negara**  : ID, US, JP, KR, SG, IN, PH
 * **Translasi data**  : Menggunakan `deep-translator` untuk menerjemahkan ulasan non-Bahasa Indonesia agar data seragam
 
@@ -105,13 +105,13 @@ Berdasarkan eksperimen pada notebook `modeling.ipynb`, diperoleh hasil sebagai b
 
 * **Distribusi Sentimen**:
 
-  * Negatif  : ±64%
-  * Positif  : ±31%
-  * Netral   : ±4%
+  * Negatif  : 64%
+  * Positif  : 31%
+  * Netral   : 4%
 
-* **Akurasi Training** : ±91.98%
+* **Akurasi Training** : 91.98%
 
-* **Akurasi Testing**  : ±86.56%
+* **Akurasi Testing**  : 86.56%
 
 Hasil evaluasi menunjukkan bahwa **Random Forest** mampu mengklasifikasikan sentimen dengan cukup baik dan tidak mengalami *overfitting* yang berlebihan. Tantangan utama berasal dari **ketidakseimbangan kelas data (imbalanced dataset)**.
 
